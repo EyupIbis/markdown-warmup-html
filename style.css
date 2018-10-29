@@ -1,0 +1,22 @@
+p {
+  text-align: left;
+  color: black;
+  font-style: normal;
+
+}
+body {
+    color: black;
+}
+h1,h2 {
+    color: black;
+    width: 1000px;
+    border: 2px solid blue;
+    background-position: left top;
+    padding: 5px;
+    margin: 5px;
+    font-style: normal;
+    border-radius: 25px;
+    padding: 20px;
+    width: 1000px;
+    height: 15px;
+}
