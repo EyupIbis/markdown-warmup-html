@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>Welke website heeft u gevonden? (naam, url, link).</h1>
-<p><a href="www.arngren.net">website arngren</a></p>
+<a href="www.arngren.net">website arngren</a>
 
 <h2>Wordt het regelmatig bijgewerkt?</h2>
 <p>22 October 2018.</p>
